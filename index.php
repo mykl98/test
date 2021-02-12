@@ -2,7 +2,6 @@
 
 $app_id = "pdnBCoyeEgCMLiKkbjceqkCGedd4Cepr";
 $app_secret = "01a5997b1ff87e492bc436e41a083ac6ab4c94e429fc35c851ec575f1c3d1d2a";
-//$rewards_token = "AbCkxKYid_F_p-JSgTejow";
 $rewards_token = "8wmMhxCamXWZIFvMkyQ2WA==";
 $address = "9068159926";
 $promo = "LE200";
